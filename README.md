@@ -3,24 +3,11 @@
 This project requires two terminals to run properly. One for the Vue application and the other for the flask api.\
 If you choose not to run the backend flask api which hosts the database then the frontend vue app will simply not show charts.
 
-
-## Frontend hosted at:  
-
-### [https://watamatic.herokuapp.com/](https://watamatic.herokuapp.com/)
-
-## Database hosted at:
-### https://watamatic-database.herokuapp.com/
-(sensors and RaspberryPi may not be plugged in) 
+### [webapp](https://watamatic.herokuapp.com/) (sensors and RaspberryPi may not be active) 
 
 
+### [flask database](https://watamatic-database.herokuapp.com/)
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 
 # Project Setup
