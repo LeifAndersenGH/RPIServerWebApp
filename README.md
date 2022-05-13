@@ -3,6 +3,8 @@
 This project requires two terminals to run properly. One for the Vue application and the other for the flask api.\
 If you choose not to run the backend flask api which hosts the database then the frontend vue app will simply not show charts.
 
+This app connects to user @RileyHal's Aurdrino and Raspberry Pi which monitors the soil moisture, humidity, tempurature, etc.. of his plant. 
+
 ### [webapp](https://watamatic.herokuapp.com/) (sensors and RaspberryPi may not be active) 
 
 
