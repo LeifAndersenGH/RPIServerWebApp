@@ -1,5 +1,7 @@
 # RPIServerWebApp
 
+Presentation: https://docs.google.com/presentation/d/1UOCbRn9Rmkdeux6LsxNOfAbWdge_R0AqJm1ac3D5PXM/edit?usp=sharing
+
 This project requires two terminals to run properly. One for the Vue application and the other for the flask api.\
 If you choose not to run the backend flask api which hosts the database then the frontend vue app will simply not show charts.
 
